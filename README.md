@@ -1,6 +1,7 @@
 # Young Dev Interns Python Tasks
 ## Task 1 :  **Sine and CoSineGraph Using MatplotLib Module**
-![image](https://github.com/user-attachments/assets/1c63be10-1a27-461c-ac15-903b9e8f8a29)
+
+![Screenshot_5](https://github.com/user-attachments/assets/f93974aa-e873-4132-92ba-8fc8af56d39f)
 
 ## Steps to Make the Graph :
 
